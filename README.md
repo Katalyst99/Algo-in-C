@@ -7,3 +7,6 @@ using the C programming language.
 
 ## 2. Gray Code:
 * A very useful way to minimize errors during data transfers
+
+## 3. Minimum Substring:
+* Can be very useful in applications where we need to find a substring that contains a certain set of characters

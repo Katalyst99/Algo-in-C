@@ -10,3 +10,6 @@ using the C programming language.
 
 ## 3. Minimum Substring:
 * Can be very useful in applications where we need to find a substring that contains a certain set of characters
+
+## 4. FizzBuzz:
+* A very useful program demonstrating importance of being able to break down problems into smaller, manageable parts.

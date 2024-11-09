@@ -13,3 +13,6 @@ using the C programming language.
 
 ## 4. FizzBuzz:
 * A very useful program demonstrating importance of being able to break down problems into smaller, manageable parts.
+
+## 5. ABC Problem:
+* Presents a clear illustration of a problem-solving task centered around data manipulation.

@@ -16,3 +16,6 @@ using the C programming language.
 
 ## 5. ABC Problem:
 * Presents a clear illustration of a problem-solving task centered around data manipulation.
+
+## 6. Balanced Bracket Algorithm:
+* Common application of this algo is in programming language compilers and interpreters. Brackets are used to delimit blocks of code.

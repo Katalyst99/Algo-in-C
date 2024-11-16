@@ -19,3 +19,7 @@ using the C programming language.
 
 ## 6. Balanced Bracket Algorithm:
 * Common application of this algo is in programming language compilers and interpreters. Brackets are used to delimit blocks of code.
+
+## 7. Circles of Given Radius Through Two Points:
+* The Find Circles algorithm can be useful in various fields that involve geometry, such as engineering, architecture, and physics.
+For example, can be used to calculate the size of a gear needed to transmit motion between two gears.

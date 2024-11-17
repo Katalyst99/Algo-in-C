@@ -23,3 +23,6 @@ using the C programming language.
 ## 7. Circles of Given Radius Through Two Points:
 * The Find Circles algorithm can be useful in various fields that involve geometry, such as engineering, architecture, and physics.
 For example, can be used to calculate the size of a gear needed to transmit motion between two gears.
+
+## 8. 100 Doors:
+* This algorithm helps in developing critical thinking skills and logical reasoning, which can be applied to a wide range of real-world problems.

@@ -26,3 +26,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 8. 100 Doors:
 * This algorithm helps in developing critical thinking skills and logical reasoning, which can be applied to a wide range of real-world problems.
+
+## 9. Date manipulation:
+* This algorithm can be useful in a lot of different industries and situations where date and time calculations are important.

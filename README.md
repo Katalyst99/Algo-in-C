@@ -29,3 +29,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 9. Date manipulation:
 * This algorithm can be useful in a lot of different industries and situations where date and time calculations are important.
+
+## 10. String Formatting Algorithm:
+* This algorithm can be used to generate a user friendly, grammatically correct message based on the number of items in a list

@@ -32,3 +32,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 10. String Formatting Algorithm:
 * This algorithm can be used to generate a user friendly, grammatically correct message based on the number of items in a list
+
+## 11. String Searching Algorithm:
+* The ability to count non-overlapping occurences of a substring in a string is a powerful tool that can be used in a wide variety of real-world scenarios to search, analyze, and extract information from text data.

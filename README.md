@@ -35,3 +35,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 11. String Searching Algorithm:
 * The ability to count non-overlapping occurences of a substring in a string is a powerful tool that can be used in a wide variety of real-world scenarios to search, analyze, and extract information from text data.
+
+## 12. Count the Coins:
+* This algorithm for counting the number of ways to make change using common US coins has several real-world applications.

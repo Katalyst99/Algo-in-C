@@ -38,3 +38,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 12. Count the Coins:
 * This algorithm for counting the number of ways to make change using common US coins has several real-world applications.
+
+## 13. Two Sum Problem:
+* This algorithm can be used as a starting point for solving more complex problems, and as a building block in many other algorithms.

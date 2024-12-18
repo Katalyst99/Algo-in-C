@@ -41,3 +41,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 13. Two Sum Problem:
 * This algorithm can be used as a starting point for solving more complex problems, and as a building block in many other algorithms.
+
+## 14. Missing Number in Array:
+* This algorithm can be very useful while performing calculations or generating reports in the context of data analysis. Since the algorithm can be used to find missing values in datasets and to perform calculations accordingly.

@@ -44,3 +44,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 14. Missing Number in Array:
 * This algorithm can be very useful while performing calculations or generating reports in the context of data analysis. Since the algorithm can be used to find missing values in datasets and to perform calculations accordingly.
+
+## 15. Kadane Algorithm:
+* This algorithm can be used in many real-world situations. Including machine learning for feature selection, where it is used to find the most important features in a dataset.

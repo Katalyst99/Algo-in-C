@@ -47,3 +47,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 15. Kadane Algorithm:
 * This algorithm can be used in many real-world situations. Including machine learning for feature selection, where it is used to find the most important features in a dataset.
+
+## 16. Arranging an array of 0s, 1s and 2s:
+* This is an important algorithm as it has many real-world applications. For example, in computer networks, datum is often represented in binary form. TCP and IP are network protocols where sorting an array of 0s and 1s is imperative.

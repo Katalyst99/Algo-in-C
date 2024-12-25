@@ -50,3 +50,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 16. Arranging an array of 0s, 1s and 2s:
 * This is an important algorithm as it has many real-world applications. For example, in computer networks, datum is often represented in binary form. TCP and IP are network protocols where sorting an array of 0s and 1s is imperative.
+
+## 17. Majority Element Algorithm:
+* The algorithm has many real-world applications, Including Data analysis as it can be used to identify patterns and trends in large datasets. This information can be quite useful in identifying areas for improvement and to make better decisions.

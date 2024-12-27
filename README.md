@@ -53,3 +53,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 17. Majority Element Algorithm:
 * The algorithm has many real-world applications, Including Data analysis as it can be used to identify patterns and trends in large datasets. This information can be quite useful in identifying areas for improvement and to make better decisions.
+
+## 18. Find Duplicates in an Array:
+* This algorithm can be used in many real-world situations. For example, in Data Analysis it is used to find duplicate entries in datasets, which helps in cleaning and preparing data for analysis.

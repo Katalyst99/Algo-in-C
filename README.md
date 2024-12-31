@@ -56,3 +56,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 18. Find Duplicates in an Array:
 * This algorithm can be used in many real-world situations. For example, in Data Analysis it is used to find duplicate entries in datasets, which helps in cleaning and preparing data for analysis.
+
+## 19. Trapping Rain Water:
+* The algorithm has practical applications in multiple fields, including civil engineering, as it can be used to design drainage systems and calculate water flow in flood-prone areas.

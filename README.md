@@ -59,3 +59,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 19. Trapping Rain Water:
 * The algorithm has practical applications in multiple fields, including civil engineering, as it can be used to design drainage systems and calculate water flow in flood-prone areas.
+
+## 20. Peak Element Problem:
+* The algorithm has practical applications in multiple fields, including stock market analysis, as peak detection can be quite useful in analyzing stock market trends.

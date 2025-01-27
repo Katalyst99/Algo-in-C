@@ -62,3 +62,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 20. Peak Element Problem:
 * The algorithm has practical applications in multiple fields, including stock market analysis, as peak detection can be quite useful in analyzing stock market trends.
+
+## 21. Common Elements:
+* Finding common elements between arrays is a fundamental problem in computer science and has various real-world applications. For example, In networking and distributed systems, where nodes need to communicate and share information.

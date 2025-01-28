@@ -3,6 +3,7 @@
 
 
 def elementsCommon(A, B, C):
+    """Finds the elements that are common in 3 arrays."""
     x, y, z = 0, 0, 0
     common = []
 

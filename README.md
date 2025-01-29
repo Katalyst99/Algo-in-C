@@ -65,3 +65,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 21. Common Elements:
 * Finding common elements between arrays is a fundamental problem in computer science and has various real-world applications. For example, In networking and distributed systems, where nodes need to communicate and share information.
+
+## 22. Hash from two arrays:
+* The algorithm is a very useful technique in many real-world applications, especially in web development. For example, it can be used to create key-value pairs from form data submitted by users.

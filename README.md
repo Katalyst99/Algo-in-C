@@ -68,3 +68,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 22. Hash from two arrays:
 * The algorithm is a very useful technique in many real-world applications, especially in web development. For example, it can be used to create key-value pairs from form data submitted by users.
+
+## 23. Average Salary:
+* The algorithm is important for analyzing salary data in various domains, such as human resources and financial management.

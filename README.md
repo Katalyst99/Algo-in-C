@@ -74,3 +74,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 24. Median of Two Sorted Arrays:
 * The algorithm has many real-world applications in fields such as finance, economics, and healthcare. For example, a financial analyst might use this algorithm to determine the median salary of employees at a company, or to analyze the median price of a certain stock over a period of time.
+
+## 25. Container With Most Water:
+* The algorithm for finding the max amount of water that can be stored in a container has practical applications in various fields, including civil engineering, architecture, and urban planning. For example, the algo can be used to determine the optimal design for water tanks or reservoirs, ensuring that they can store the max amount of water possible within the available space.

@@ -77,3 +77,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 25. Container With Most Water:
 * The algorithm for finding the max amount of water that can be stored in a container has practical applications in various fields, including civil engineering, architecture, and urban planning. For example, the algo can be used to determine the optimal design for water tanks or reservoirs, ensuring that they can store the max amount of water possible within the available space.
+
+## 26. Integer to Roman:
+* The algorithm has many real-world applications, including clocks and watches where roman numerals are often used to display the hours on clocks and watches, especially on traditional or antique timepieces.

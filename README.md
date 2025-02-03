@@ -80,3 +80,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 26. Integer to Roman:
 * The algorithm has many real-world applications, including clocks and watches where roman numerals are often used to display the hours on clocks and watches, especially on traditional or antique timepieces.
+
+## 27. Longest Common Prefix:
+* The algorithm has many real-world applications, including text processing applications, such as search engines, where it can be used to compare and match strings.

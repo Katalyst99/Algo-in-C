@@ -83,3 +83,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 27. Longest Common Prefix:
 * The algorithm has many real-world applications, including text processing applications, such as search engines, where it can be used to compare and match strings.
+
+## 28. Next Permutation:
+* The algorithm has many real-world applications, including cryptography, where the algo can be used to generate keys for encryption and decryption.

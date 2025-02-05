@@ -86,3 +86,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 28. Next Permutation:
 * The algorithm has many real-world applications, including cryptography, where the algo can be used to generate keys for encryption and decryption.
+
+## 29. Search in Rotated Sorted Array:
+* This algorithm has important applications in fields such as search engines, databases, and data analysis. For example, when searching a large dataset or database, the algo can help to efficiently locate the required data without iterating over the entire dataset.

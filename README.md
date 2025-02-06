@@ -89,3 +89,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 29. Search in Rotated Sorted Array:
 * This algorithm has important applications in fields such as search engines, databases, and data analysis. For example, when searching a large dataset or database, the algo can help to efficiently locate the required data without iterating over the entire dataset.
+
+## 30. Search Insert Position:
+* This algorithm has important applications in fields such as Data Analysis and Statistics where analyzing sorted datasets or performing statistical computations, it is often necessary to find the position where a new data point would fit in the ordered sequence.

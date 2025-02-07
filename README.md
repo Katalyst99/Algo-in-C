@@ -92,3 +92,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 30. Search Insert Position:
 * This algorithm has important applications in fields such as Data Analysis and Statistics where analyzing sorted datasets or performing statistical computations, it is often necessary to find the position where a new data point would fit in the ordered sequence.
+
+## 31. Count and Say Algorithm:
+* This is a useful algorithm in certain scenarios. For instance, The count-and-say algo is often used as an exercise in coding interviews or programming courses.

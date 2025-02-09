@@ -95,3 +95,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 31. Count and Say Algorithm:
 * This is a useful algorithm in certain scenarios. For instance, The count-and-say algo is often used as an exercise in coding interviews or programming courses.
+
+## 32. Rotate Image Algorithm:
+* The algorithm has a multitude of important real-world applications in several domains. For example, In Computer Graphics the algo is used to rotate objects or scenes in a 3D environment.

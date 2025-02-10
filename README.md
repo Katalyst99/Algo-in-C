@@ -98,3 +98,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 32. Rotate Image Algorithm:
 * The algorithm has a multitude of important real-world applications in several domains. For example, In Computer Graphics the algo is used to rotate objects or scenes in a 3D environment.
+
+## 33.Spiral Matrix Algorithm:
+* The algorithm has a multitude of important real-world applications in real-world scenarios. For example, In Computer Graphics the algo can be used to traverse the graphics buffer or mesh data, ensuring the desired order for rendering or applying transformations.

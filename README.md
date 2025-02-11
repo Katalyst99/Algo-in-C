@@ -101,3 +101,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 33.Spiral Matrix Algorithm:
 * The algorithm has a multitude of important real-world applications in real-world scenarios. For example, In Computer Graphics the algo can be used to traverse the graphics buffer or mesh data, ensuring the desired order for rendering or applying transformations.
+
+## 34.Add Binary:
+* The algorithm has practical applications in numerous domains, including Cryptography and Security, where binary addition is crucial in cryptographic algorithms and security protocols. Many encryption and decryption algorithms operate on binary data, and performing binary addition is essential for cryptographic operations such as XOR, modular arithmetic, or key generation.

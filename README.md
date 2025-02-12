@@ -104,3 +104,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 34.Add Binary:
 * The algorithm has practical applications in numerous domains, including Cryptography and Security, where binary addition is crucial in cryptographic algorithms and security protocols. Many encryption and decryption algorithms operate on binary data, and performing binary addition is essential for cryptographic operations such as XOR, modular arithmetic, or key generation.
+
+## 35.Climbing Stairs:
+* This algorithm is important in several real-world applications. It is used to determine paths in grids and mazes, and analyzing combinatorial scenarios. The algo showcases the concept of dynamic programming and provides a foundation for solving more complex optimization problems.

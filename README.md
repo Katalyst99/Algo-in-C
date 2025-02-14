@@ -107,3 +107,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 35.Climbing Stairs:
 * This algorithm is important in several real-world applications. It is used to determine paths in grids and mazes, and analyzing combinatorial scenarios. The algo showcases the concept of dynamic programming and provides a foundation for solving more complex optimization problems.
+
+## 36.Same Tree:
+* This algorithm is important in several real-world applications involving tree structures. Including Tree-Based Data Structures, in which the algo is crucial in various tree-based data structures like binary search trees, AVL trees, or red-black trees.

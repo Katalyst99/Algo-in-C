@@ -110,3 +110,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 36.Same Tree:
 * This algorithm is important in several real-world applications involving tree structures. Including Tree-Based Data Structures, in which the algo is crucial in various tree-based data structures like binary search trees, AVL trees, or red-black trees.
+
+## 37.Decode Ways:
+* This algorithm has several real-world applications, especially in scenarios where data is represented using a different encoding scheme and needs to be transformed back to its original form.

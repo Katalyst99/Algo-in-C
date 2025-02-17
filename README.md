@@ -113,3 +113,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 37.Decode Ways:
 * This algorithm has several real-world applications, especially in scenarios where data is represented using a different encoding scheme and needs to be transformed back to its original form.
+
+## 38.Word Search:
+* This algorithm has several real-world applications, especially in word games and puzzles. For example, Spell-checking algorithms can utilize this approach to verify if a given word is present in a dictionary or a corpus of valid words.

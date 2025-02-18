@@ -116,3 +116,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 38.Word Search:
 * This algorithm has several real-world applications, especially in word games and puzzles. For example, Spell-checking algorithms can utilize this approach to verify if a given word is present in a dictionary or a corpus of valid words.
+
+## 39.Recursive Backtracking Algorithm:
+* The algorithm has practical applications in numerous real-world scenarios and industries that involve combinatorial optimization or search problems. For example, In data analysis this algo can be used to generate all possible combinations of a fixed size, which can then be analyzed and conpared to identify important patterns or relationships.

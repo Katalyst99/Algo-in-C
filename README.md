@@ -119,3 +119,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 39.Recursive Backtracking Algorithm:
 * The algorithm has practical applications in numerous real-world scenarios and industries that involve combinatorial optimization or search problems. For example, In data analysis this algo can be used to generate all possible combinations of a fixed size, which can then be analyzed and conpared to identify important patterns or relationships.
+
+## 40.Amicable Pairs:
+* This algorithm is important in several real-world applications. In cryptography, amicable pairs can be used to generate keys for encryption and decryption algos such as RSA.

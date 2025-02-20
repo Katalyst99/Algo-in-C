@@ -122,3 +122,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 40.Amicable Pairs:
 * This algorithm is important in several real-world applications. In cryptography, amicable pairs can be used to generate keys for encryption and decryption algos such as RSA.
+
+## 41.Deepcopy Algorithm:
+* This algorithm is important in several real-world applications. In web development to clone objects that contain data fetched from APIs or databases. This can help prevent errors caused by accidentally modifying the original data.

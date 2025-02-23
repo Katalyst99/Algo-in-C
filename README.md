@@ -128,3 +128,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 42.Bracket Combinations:
 * This algorithm is important in several fields such as computer science, programming, and mathematics. In computer science and programming, it is useful in solving problems that involve dealing with matching parentheses, such as parsing expressions, validating codes, and checking syntax erros.
+
+## 43.Minimum Number of Jumps:
+* This algorithm has several real-world applications, especially in gaming, robotics, and navigation systems. For example, in robotics, the algo can be used to determine the minimum number of steps a robot needs to take to reach a specific location.

@@ -131,3 +131,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 43.Minimum Number of Jumps:
 * This algorithm has several real-world applications, especially in gaming, robotics, and navigation systems. For example, in robotics, the algo can be used to determine the minimum number of steps a robot needs to take to reach a specific location.
+
+## 44.Check for BST:
+* This algorithm is important in several real-world applications that involve binary trees. For example, In database systems, BST is often used for indexing data. The algo is used to ensure that the indexing process is efficient and accurate.

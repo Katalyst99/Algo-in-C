@@ -134,3 +134,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 44.Check for BST:
 * This algorithm is important in several real-world applications that involve binary trees. For example, In database systems, BST is often used for indexing data. The algo is used to ensure that the indexing process is efficient and accurate.
+
+## 45.Left View of Binary Tree:
+* This algorithm can be useful in several real-world applications. For example, in a computer network, devices such as routers and switches are connected to each other in a hierarchical manner, forming a tree-like structure. The algo can be used to traverse this tree-like structure and extract information about the devices connected to the network.

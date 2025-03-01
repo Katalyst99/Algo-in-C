@@ -140,3 +140,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 46.Remove Loop in Linked List:
 * This algorithm is important in computer science, especially in the field of data structures and algorithms.
+
+## 47.Detect Loop in Linked List:
+* This algorithm can be useful in several real-world applications where linked lists are used. It helps to ensure that linked lists are free from loops, which can cause infinite loops or incorrect behavior in algos that operate on the linked list.

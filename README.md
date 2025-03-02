@@ -143,3 +143,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 47.Detect Loop in Linked List:
 * This algorithm can be useful in several real-world applications where linked lists are used. It helps to ensure that linked lists are free from loops, which can cause infinite loops or incorrect behavior in algos that operate on the linked list.
+
+## 48.Knapsack Problem:
+* This algorithm proves to be quite useful in several real-world applications because it provides a way to optimize limited resources. For example, in finance, the algo can be used to optimize investment portfolios by selecting the most profitable assets to invest in given limited funds.

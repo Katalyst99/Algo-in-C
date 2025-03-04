@@ -146,3 +146,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 48.Knapsack Problem:
 * This algorithm proves to be quite useful in several real-world applications because it provides a way to optimize limited resources. For example, in finance, the algo can be used to optimize investment portfolios by selecting the most profitable assets to invest in given limited funds.
+
+## 49.Remove Nth Node from End of List:
+* This algorithm has several real-world applications, commonly used in the implementation of many software tools, especially those dealing with data processing, data analysis, and data mining.

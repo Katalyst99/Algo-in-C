@@ -149,3 +149,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 49.Remove Nth Node from End of List:
 * This algorithm has several real-world applications, commonly used in the implementation of many software tools, especially those dealing with data processing, data analysis, and data mining.
+
+## 50.Merge K Sorted Lists:
+* This algorithm is quite useful in many real-world applications that involve sorting or merging of data structures.

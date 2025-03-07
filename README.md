@@ -152,3 +152,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 50.Merge K Sorted Lists:
 * This algorithm is quite useful in many real-world applications that involve sorting or merging of data structures.
+
+## 51.Permutation Sequence:
+* This algorithm proves to be quite useful in several real-world scenarios where the arrangement or ordering of elements is important

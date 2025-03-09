@@ -155,3 +155,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 51.Permutation Sequence:
 * This algorithm proves to be quite useful in several real-world scenarios where the arrangement or ordering of elements is important
+
+## 52.Partition List:
+* This algorithm proves to be quite crucial in various real-world applications that involve data organization and manipulation. For example, when working with databases, the partition list algorithm can be used to optimize query performance.

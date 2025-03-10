@@ -158,3 +158,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 52.Partition List:
 * This algorithm proves to be quite crucial in various real-world applications that involve data organization and manipulation. For example, when working with databases, the partition list algorithm can be used to optimize query performance.
+
+## 53.Restore IP Addresses:
+* This algorithm proves to be quite useful in many real-world applications. For example, In data analysis IP addresses, may be included as part of datasets. The algo can help validate and preprocess IP addresses, ensuring data consistency and accuracy before performing analytical tasks.

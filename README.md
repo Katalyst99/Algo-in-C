@@ -161,3 +161,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 53.Restore IP Addresses:
 * This algorithm proves to be quite useful in many real-world applications. For example, In data analysis IP addresses, may be included as part of datasets. The algo can help validate and preprocess IP addresses, ensuring data consistency and accuracy before performing analytical tasks.
+
+## 54.Unique Binary Search Trees:
+* The algorithm has many real-world applications. For example, The algo can be used in compiler design to optimize code generation.

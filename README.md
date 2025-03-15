@@ -164,3 +164,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 54.Unique Binary Search Trees:
 * The algorithm has many real-world applications. For example, The algo can be used in compiler design to optimize code generation.
+
+## 55.Validate Binary Search Tree:
+* This algorithm proves to be quite useful in real-world applications. For example, In compiler design, the algo is used for syntax checking and semantic analysis.

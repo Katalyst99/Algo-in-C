@@ -167,3 +167,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 55.Validate Binary Search Tree:
 * This algorithm proves to be quite useful in real-world applications. For example, In compiler design, the algo is used for syntax checking and semantic analysis.
+
+## 56.Recover Binary Search Tree:
+* This algorithm proves to be quite useful in real-world applications where a BST has been corrupted due to the values of two nodes being swapped by mistake. The algo allows one to fix the BST and restore its original structure without changing the overall arrangement of the nodes.

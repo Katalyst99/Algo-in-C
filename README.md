@@ -170,3 +170,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 56.Recover Binary Search Tree:
 * This algorithm proves to be quite useful in real-world applications where a BST has been corrupted due to the values of two nodes being swapped by mistake. The algo allows one to fix the BST and restore its original structure without changing the overall arrangement of the nodes.
+
+## 57.Binary Tree Level Order Traversal:
+* The algorithm has many real-world applications. For example, The algo can be used in tree analysis as it allows us to examine the structure and contents of a binary tree in a systematic way.

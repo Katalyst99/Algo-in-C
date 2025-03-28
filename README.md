@@ -173,3 +173,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 57.Binary Tree Level Order Traversal:
 * The algorithm has many real-world applications. For example, The algo can be used in tree analysis as it allows us to examine the structure and contents of a binary tree in a systematic way.
+
+## 58.Binary Tree Zigzag Level Order Traversal:
+* The algorithm has many real-world applications. For example, In data analysis, the algo can assist in analyzing and extracting meaningful insights from the data stored in binary trees. It allows for examining the data at different levels and patterns within the tree structure.

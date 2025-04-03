@@ -179,3 +179,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 59.Construct Binary Tree from Preorder and Inorder Traversal:
 * This algorithm proves to be quite useful in real-world applications involving binary tree manipulation and reconstruction. For example, in AIs the algo is used to construct and reconstruct decision trees from their preorder and inorder traversals, enabling efficient decision-making and strategy formulation.
+
+## 60.Convert Sorted List to Binary Search:
+* The algorithm has many real-world applications. For example, in algorithm design and analysis the algo epitomizes the use of recursion and linked list manipulation to solve a specific problem. It exhibits important important concepts such as dividing a problem into smaller subproblems, tree construction, and maintaining balance.

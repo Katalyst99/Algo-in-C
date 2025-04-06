@@ -182,3 +182,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 60.Convert Sorted List to Binary Search:
 * The algorithm has many real-world applications. For example, in algorithm design and analysis the algo epitomizes the use of recursion and linked list manipulation to solve a specific problem. It exhibits important important concepts such as dividing a problem into smaller subproblems, tree construction, and maintaining balance.
+
+## 61.Flatten Binary Tree to Linked List:
+* This algorithm proves to be quite useful in real-world applications, especially those involving tree-based data structures. For example, By converting a binary tree into a linked list, the resulting structure requires less memory compared to the original tree. This can be beneficial in scenarios where memory efficiency is crucial, such as in embedded systems or environments with limited resources.

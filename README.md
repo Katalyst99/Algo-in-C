@@ -185,3 +185,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 61.Flatten Binary Tree to Linked List:
 * This algorithm proves to be quite useful in real-world applications, especially those involving tree-based data structures. For example, By converting a binary tree into a linked list, the resulting structure requires less memory compared to the original tree. This can be beneficial in scenarios where memory efficiency is crucial, such as in embedded systems or environments with limited resources.
+
+## 62.Distinct Subsequences:
+* The algorithm has many real-world applications in fields such as natural language processing, bioinformatics, and data analysis. For example, The algo can be used to compare 2 pieces of text and determine the number of distinct subsequences they share.

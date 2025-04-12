@@ -188,3 +188,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 62.Distinct Subsequences:
 * The algorithm has many real-world applications in fields such as natural language processing, bioinformatics, and data analysis. For example, The algo can be used to compare 2 pieces of text and determine the number of distinct subsequences they share.
+
+## 63.Triangle:
+* The algorithm calculates the min path sum in a triangle array proves to be quite useful in real-world applications. In Financial Modeling,The algo can be applied to scenarios involving portfolio management, cash flow optimization, or investment planning, where maximizing returns and/or minimizing costs is a vital objective.

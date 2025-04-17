@@ -191,3 +191,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 63.Triangle:
 * The algorithm calculates the min path sum in a triangle array proves to be quite useful in real-world applications. In Financial Modeling,The algo can be applied to scenarios involving portfolio management, cash flow optimization, or investment planning, where maximizing returns and/or minimizing costs is a vital objective.
+
+## 64.Best Time to Buy and Sell Stock 1:
+* The algorithm proves to be quite useful in real-world applications, especially in the field of finance and stock trading. For example, in stock trading the algo is used to help traders and investors determine the best time to buy and sell stocks to maximize their profits.

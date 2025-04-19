@@ -194,3 +194,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 64.Best Time to Buy and Sell Stock 1:
 * The algorithm proves to be quite useful in real-world applications, especially in the field of finance and stock trading. For example, in stock trading the algo is used to help traders and investors determine the best time to buy and sell stocks to maximize their profits.
+
+## 65.Best Time to Buy and Sell Stock 2:
+* The algorithm proves to be quite useful in real-world applications, especially in the field of finance and stock trading. For example, in stock trading investors and traders can use the algo to optimize their stock trading strategies.

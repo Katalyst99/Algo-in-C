@@ -199,4 +199,8 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 * The algorithm proves to be quite useful in real-world applications, especially in the field of finance and stock trading. For example, in stock trading investors and traders can use the algo to optimize their stock trading strategies.
 
 ## 66.Word Ladder:
-* The algorithm has many real-world applications, especially in natural language processing and computational linguistics. For example, in language learning the algo can be used in educational apps to assist learners in expanding their vocabulary and understand word relationships.
+* The algorithm has many real-world applications, especially in natural language processing and computational linguistics. For example, in language learning the algo can be used in educational apps to assist learners in expanding their vocabulary and understand word relationships
+.
+
+## 67.Longest Consecutive Sequence:
+* This algorithm can be used in several real-world applications, For example, in data analysis the algo can be utilized to spot patterns and sequences within a dataset, helping to gain insights and make informed decisions based on consecutive elements.

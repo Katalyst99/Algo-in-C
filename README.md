@@ -204,3 +204,7 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 67.Longest Consecutive Sequence:
 * This algorithm can be used in several real-world applications, For example, in data analysis the algo can be utilized to spot patterns and sequences within a dataset, helping to gain insights and make informed decisions based on consecutive elements.
+
+## 68.Palindrome Partitioning:
+* The algorithm proves to be quite useful in real-world applications, especially in the field of natural language processing and text analysis. For example, in spell checking the algo can be used to spot potential mistakes in workds by analyzing their palindromic substructures.
+

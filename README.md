@@ -208,3 +208,5 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 ## 68.Palindrome Partitioning:
 * The algorithm proves to be quite useful in real-world applications, especially in the field of natural language processing and text analysis. For example, in spell checking the algo can be used to spot potential mistakes in workds by analyzing their palindromic substructures.
 
+## 69.Petrol Station:
+* The algorithm proves to be quite useful in real-world applications, especially when dealing with transportation and logistics. For example, the algo can be used to find the optimal route for a vehicle to ensure it can travel through a series of gas stations without running out of fuel.

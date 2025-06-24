@@ -213,3 +213,6 @@ For example, can be used to calculate the size of a gear needed to transmit moti
 
 ## 70.Sweets:
 * The Sweets algorithm can be used in several real-world applications, as it determines the minimum number of candies needed to distribute among children based on their ratings. For example, The algo can be used in educational systems to assign grades or rewards to students based on their performance.
+
+## 71.Word Break:
+* The algorithm has many real-world applications. For example, The algo is a fundamental step in text analysis and mining tasks, including topic modeling, sentiment analysis named entity recognition, and keyword extraction.
